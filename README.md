@@ -1,1 +1,3 @@
 # Group-exercise
+
+-newsomem
